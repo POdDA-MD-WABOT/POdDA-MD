@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `📲 *You have successfuly connected PODDA-MD WhatsApp Bot* ✅\n *ඔබගේ WhatsApp Bot සාර්ථකව සම්බන්ධ කර ගන්නා ලදි* ✅ \n\nPREFIX: ${prefix}`;
       await danuwa.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true` },
+        image: { url: `https://github.com/POdDA-MD-WABOT/PODDA-MD-TOOLS/blob/main/20250708_200017.jpg` },
         caption: up
       });
 
